@@ -14,5 +14,20 @@
       "name": "eqozqq",
       "avatar": "https:\/\/avatars.githubusercontent.com\/u\/112166693?v=4"
     }
+  },
+  {
+    "title": "PerWorldGamemode",
+    "version": "0.8.1, 0.8.0",
+    "short_description": "Control gamemode on different worlds",
+    "file": "data\/0.8.1\/PerWorldGamemode\/PerWorldGamemode.php",
+    "date": "2025-12-12 09:58",
+    "type": "plugins",
+    "core": "PocketMine-MP",
+    "php_version": "PHP 7",
+    "original_link": "http:\/\/www.nostalgiaforum.rf.gd\/index.php?threads\/246\/",
+    "author": {
+      "name": "eqozqq",
+      "avatar": "https:\/\/avatars.githubusercontent.com\/u\/112166693?v=4"
+    }
   }
 ]
