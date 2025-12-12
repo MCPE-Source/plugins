@@ -1,19 +1,21 @@
 [
   {
     "title": "PrivateAreaProtector",
-    "version": "0.8.1",
+    "version": "0.8.1, 0.8.0",
     "short_description": "This plugin protects your private area from other players",
     "full_description": "This plugin protects your private area from other players!\nOther players can't place or break a block in your private area.\n\n**Commands:**\n\/protect pos1 - Sets first position to your coordinate.\n\/protect pos2 - Sets second position to your coordinate.\n\/protect - Sets the area designed by \/\/protect pos1 and \/\/protect pos2 to your private area.\n\/unprotect <world> - Lifts your private area's protect which exists in <world>.\n==These commands are only for console window==\n\/protect - Show a private areas list.\n\/unprotect <owner> <world> - Unprotects <owner>'s private area.",
-    "thumbnail": "",
     "file": "data\/0.8.1\/PrivateAreaProtector\/PrivateAreaProtector.pmf",
     "date": "2025-12-11 17:31",
+    "updated_date": "2025-12-12 10:43",
     "type": "plugins",
-    "core": "PMMP 1.3.x",
+    "core": "PocketMine-MP",
+    "php_version": "PHP 7",
     "original_link": "http:\/\/www.nostalgiaforum.rf.gd\/index.php?threads\/215\/",
     "author": {
       "name": "eqozqq",
       "avatar": "https:\/\/avatars.githubusercontent.com\/u\/112166693?v=4"
-    }
+    },
+    "thumbnail": ""
   },
   {
     "title": "PerWorldGamemode",
