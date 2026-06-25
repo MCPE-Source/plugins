@@ -30,5 +30,22 @@
     "original_link": "http://www.nostalgiaforum.rf.gd/index.php?threads/241/",
     "core": "PocketMine-MP",
     "php_version": "PHP 7"
+  },
+  {
+    "title": "Sign Portal 1.0.2",
+    "version": "0.8.0, 0.8.1",
+    "short_description": "Allows to teleport to other worlds via signs",
+    "full_description": "Allows to teleport to other worlds via signs\n\nformal line 1: [WORLD]\nformat line 2: {world_name}",
+    "date": "2026-06-25 08:53",
+    "type": "plugins",
+    "author": {
+      "name": "eqozqq",
+      "avatar": "https://avatars.githubusercontent.com/u/112166693?v=4"
+    },
+    "file": "data/0.8.0,_0.8.1/Sign Portal 1.0.2/Sign Portal 1.0.2.php",
+    "alt_link": "http://www.nostalgiaforum.rf.gd/index.php?attachments/402/",
+    "original_link": "http://www.nostalgiaforum.rf.gd/index.php?threads/218/",
+    "core": "PocketMine-MP",
+    "php_version": "PHP 7"
   }
 ]
