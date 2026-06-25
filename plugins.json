@@ -64,5 +64,22 @@
     "original_link": "http://www.nostalgiaforum.rf.gd/index.php?threads/198/",
     "core": "PocketMine-MP",
     "php_version": "PHP 7"
+  },
+  {
+    "title": "PocketHungerGames alpha_0.0.8",
+    "version": "PMMP 1.3.9",
+    "short_description": "Hunger games plugin",
+    "full_description": "**How to play:**\n\nFirst, I explain how to play this plugin for players.\nA server included PocketHungerGames(PHG) repeats \"lobby mode\" and \"play mode\" automatically.\n\"Lobby mode\" is waiting for players to gather. \"Play mode\" is a PvP game.\nYou cannot join a PHG server while it is in \"play mode\".\n\nWhile you wait in lobby, you can't attack on others and place/break blocks. A games begins if there are 2 or more players in world. Then, your inventory will be emptied.\nA game begins, and every players will be teleported to start points and they will be invincible mode for a few minutes. You should provide for a fight.\n\nWho survived at the very end will be the winner.\n\nIf you die, you will be kicked from a server.\n\nYou can buy Kit in game. Kit gives you some useful items. You need some \"coin\" and some \"level\" to buy it.\nType \"/kit\", and shows info about Kit.\n\n**Commands for console:**\n- /hg run (field name) - enable this plugin\n- /hg stop - stop a game which is going on.\n- /hg state - show state of the current game.\n- /hg addfield <field name> - add a new field(stage).\n- /hg rmfield <field name> - remove a field.\n- /hg fieldinfo <field name> - show about a field.\n- /hg fieldlist - list fields.\n- /hg status -\n- /hg locktime\n- /hg record - show players record.\n- /hg protect <on | off> - .\n- /hg settime <mode> <time> - set playing hours.\n(mode(default): lobby(5min), invincible(30sec), play(17min))\nlobby: an interval between a game and a game\ninvincible: invincible time after game begins.\nplay: duration of a game\n->[lobby]->[[invincible] play]->[finish]->\n- /hg setprize -\n- /hg marker <on | off> - place marakers of spawn points on your world.\n- /hg setlobby <field name> <x> <y> <z> - set a coordinate of lobby point.\n- /hg addpoint <filed name> <x> <y> <z> - add a coordinate of start point.\n- /hg rmpoint <field name> <point number> - remove a start point.\n- /hg - show help\n- /kit add <kit name> <price> (level) - add kit.\n- /kit rm <kit name> - remove kit.\n- /kit additem <kit name> <ItemID> (damage) (count) - add items to kit.\n- /kit list - show kit list.\n- /kit info <kit name> - show info about it.\n\n**Commands for in-game:**\n- /hg - show info about you.\n- /kit - show info about kit.\n- /kit list - show kit list.\n- /kit <kitname> - buy kit.\n\n**How to start:**\nPlease don't use with other plugins as you can!\n1. type \"/hg run\"\n2. type \"/hg addfield <field name>\"\n3. type \"/hg setlobby <field name> <x> <y> <z>\"\n4. type \"/hg addpoint <field name> <x> <y> <z>\" a few times\n5. start MinecraftPE and join your server\n6. type \"/hg marker on\" and check points\n7. type \"/hg marker off\" and type \"/hg run\" to start HungerGames\n8. wait for starting a game. if you cannot wait, type \"/hg start\"\n9. enjoy!",
+    "date": "2026-06-25 08:57",
+    "type": "plugins",
+    "author": {
+      "name": "eqozqq",
+      "avatar": "https://avatars.githubusercontent.com/u/112166693?v=4"
+    },
+    "file": "data/PMMP_1.3.9/PocketHungerGames alpha_0.0.8/PocketHungerGames alpha_0.0.8.php",
+    "alt_link": "http://www.nostalgiaforum.rf.gd/index.php?attachments/395/",
+    "original_link": "http://www.nostalgiaforum.rf.gd/index.php?threads/213/",
+    "core": "PocketMine-MP",
+    "php_version": "PHP 7"
   }
 ]
